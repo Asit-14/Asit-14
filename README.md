@@ -2,8 +2,6 @@
 
   <!-- Animated Header with Gradient -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-<!-- Multi-line Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full+Stack+Developer;💻+Code+Wizard+%26+Problem+Solver;🌟+Building+Digital+Dreams;✨+Open+Source+Enthusiast" alt="Typing Animation"/>
 
 
   <!-- Profile Stats -->
@@ -27,8 +25,7 @@ Fields_of_interests:
   - "Web Development"
   - "Open Source"
   - "Problem Solving"
-  - "UI/UX Design"
-  - "Cloud Technologies"
+  - "AI/ML"
 
 Technical_background:
   - "🎯 Building responsive web applications"
@@ -36,12 +33,11 @@ Technical_background:
   - "💡 Always exploring new technologies"
   - "🌟 Contributing to open source projects"
 
-Currently_learning: ["Advanced React", "Node.js", "Cloud Computing"]
+Currently_learning: ["Advanced React", "Node.js", "AI/ML"]
 2025_Goals: ["Master Full Stack", "Contribute to OSS", "Build SaaS"]
 Hobbies: ["Coding", "Gaming", "Music", "Photography"]
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> Tech Arsenal
 
@@ -69,7 +65,7 @@ Hobbies: ["Coding", "Gaming", "Music", "Photography"]
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=3&theme=github_dark&bg=0d1117&badge=238636&border=30363d&titleColor=58a6ff&line1=javascript,js,f7df1e;typescript,ts,3178c6;python,python,3776ab;react,react,61dafb;&line2=nodejs,node.js,339933;mongodb,mongodb,47a248;mysql,mysql,4479a1;git,git,f05032;&line3=docker,docker,2496ed;aws,aws,232f3e;vscode,vscode,007acc;" alt="My Tech Stack" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> GitHub Analytics
 
@@ -84,23 +80,12 @@ Hobbies: ["Coding", "Gaming", "Music", "Photography"]
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asit-14&theme=github_dark" alt="Profile Summary" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Activity Visualization
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit-14&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&border_radius=10" alt="Activity Graph"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"/> Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asit-14&theme=discord&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"/> Developer Journey
 
@@ -157,8 +142,6 @@ asit.sayHello();
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"/> Connect with Me
 
 <div align="center">
@@ -191,7 +174,6 @@ asit.sayHello();
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25"/> Random Dev Quote
 
@@ -199,7 +181,7 @@ asit.sayHello();
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25"/> Contribution Snake
 
@@ -211,7 +193,7 @@ asit.sayHello();
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 <div align="center">
 
