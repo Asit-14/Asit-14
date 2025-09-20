@@ -45,11 +45,11 @@ Hobbies: ["Coding", "Gaming", "Music", "Photography"]
 
 ### 🚀 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,express,bootstrap" alt="Languages & Frameworks" />
+<img src="https://skillicons.dev/icons?i=c,java,spring,js,python,html,css,react,nodejs,express,bootstrap" alt="Languages & Frameworks" />
 
 ### 🗄️ Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 
 ### 🛠️ Tools & Platforms
 
@@ -62,87 +62,14 @@ Hobbies: ["Coding", "Gaming", "Music", "Photography"]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=3&theme=github_dark&bg=0d1117&badge=238636&border=30363d&titleColor=58a6ff&line1=javascript,js,f7df1e;typescript,ts,3178c6;python,python,3776ab;react,react,61dafb;&line2=nodejs,node.js,339933;mongodb,mongodb,47a248;mysql,mysql,4479a1;git,git,f05032;&line3=docker,docker,2496ed;aws,aws,232f3e;vscode,vscode,007acc;" alt="My Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=3&theme=github_dark&bg=0d1117&badge=238636&border=30363d&titleColor=58a6ff&line1=javascript,js,f7df1e;python,python,3776ab;java,java,007396;react,react,61dafb;&line2=nodejs,node.js,339933;mongodb,mongodb,47a248;mysql,mysql,4479a1;git,git,f05032;&line3=aws,aws,232f3e;vscode,vscode,007acc;" alt="My Tech Stack" />
 </div>
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> GitHub Analytics
-
-<div align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asit-14&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit-14&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&border_radius=10&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asit-14&theme=github_dark" alt="Profile Summary" />
-</div>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Activity Visualization
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit-14&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&border_radius=10" alt="Activity Graph"/>
-</div>
 
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"/> Developer Journey
 
-<div align="center">
-
-```javascript
-class AsitKumar extends Developer {
-  constructor() {
-    super();
-    this.name = "Asit Kumar";
-    this.role = "Full Stack Developer";
-    this.location = "India 🇮🇳";
-    this.languages = ["JavaScript", "Python", "TypeScript", "HTML", "CSS"];
-    this.editor = "VS Code ❤️";
-    this.workingOn = "Amazing Web Applications 🚀";
-  }
-
-  getCurrentStatus() {
-    return {
-      learning: ["Advanced React Patterns", "Cloud Architecture", "DevOps"],
-      building: ["Full Stack Applications", "Open Source Projects"],
-      exploring: ["AI/ML Integration", "Web3 Technologies"],
-      goals2025: [
-        "🎯 Master Advanced React & Node.js",
-        "☁️ Learn Cloud Technologies (AWS/Azure)",
-        "🌟 Contribute to Major Open Source Projects",
-        "🏗️ Build Production-Ready SaaS Applications",
-        "📝 Share Knowledge through Technical Blogs",
-      ],
-    };
-  }
-
-  getWorkingEnvironment() {
-    return {
-      os: ["Windows 11", "Linux Ubuntu"],
-      editor: "Visual Studio Code",
-      terminal: "Windows Terminal + PowerShell",
-      browser: "Chrome DevTools",
-      design: "Figma",
-      productivity: ["Notion", "GitHub", "Discord"],
-    };
-  }
-
-  sayHello() {
-    console.log("👋 Hello World! Thanks for visiting my profile!");
-    console.log("🚀 Let's build something amazing together!");
-    console.log("💡 Always open to collaborating on cool projects!");
-  }
-}
-
-const asit = new AsitKumar();
-asit.sayHello();
-```
-
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"/> Connect with Me
 
 <div align="center">
 
@@ -160,14 +87,11 @@ asit.sayHello();
 <a href="mailto:asitshakya789@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://asit-14.github.io/bytefolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
+
 
 
 ### 💬 Let's Talk About
 - 🔥 **Web Development** – React, Node.js, Full Stack  
-- 📊 **Data Science & Python** – From data analysis to machine learning  
 - 🌟 **Open Source** – Contributing to the community  
 - 💡 **Tech Innovation** – Latest trends and technologies  
 - 🚀 **Career Growth** – Tips and experiences in tech  
@@ -182,8 +106,6 @@ asit.sayHello();
 </div>
 
 
-
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25"/> Contribution Snake
 
 <div align="center">
   <picture>
