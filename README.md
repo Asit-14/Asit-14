@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1035,100:0d0d1a&height=200&section=header&text=Asit%20Kumar&fontSize=58&fontColor=e2d9f3&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%94%20Node.js%20%C2%B7%20NestJS%20%C2%B7%20Databases&descSize=16&descAlignY=62&descColor=9d8ec7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1035,100:0d0d1a&height=200&section=header&text=Asit%20Kumar&fontSize=58&fontColor=e2d9f3&fontAlignY=40&desc=Software%20Engineer%20I%20%E2%80%94%20Backend%20%C2%B7%20AI%20Systems%20%C2%B7%20RAG&descSize=16&descAlignY=62&descColor=9d8ec7&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -22,21 +22,23 @@
 
 ```javascript
 export const asit = {
-  craft   : "Backend Engineering",
-  mantra  : "Boring systems are the best systems",
+  role    : "Software Engineer I",
+  craft   : "Backend & AI Engineering",
+  mantra  : "Build reliable systems that solve real problems",
   focus   : [
-    "REST API design & validation",
-    "JWT auth & role-based access",
-    "Database schema design",
-    "Clean, maintainable architecture",
+    "Python & FastAPI backend development",
+    "REST APIs, authentication & access control",
+    "PostgreSQL & scalable data systems",
+    "RAG, AI agents & LLM integrations",
   ],
-  currently: "Building production-ready APIs",
+  currently: "Building backend and AI-powered applications",
 };
+
 ```
 
-> I care about the invisible stuff —  
-> the kind of backend that never makes the news  
-> because it just *works*.
+I enjoy working on the systems behind the product —
+reliable APIs, intelligent workflows, and backend architecture
+designed to work at scale..
 
 </td>
 <td valign="top" width="45%">
@@ -45,19 +47,30 @@ export const asit = {
 
 **Runtime & Frameworks**
 ```
-Node.js  ██████████████░  NestJS
-Express  █████████████░░  Next.js (API)
+Python   ██████████████░  FastAPI
+Node.js  █████████████░░  Express.js
 ```
 
 **Data**
 ```
-MongoDB  ████████████░░░
+PostgreSQL █████████████░░
+MongoDB    ███████████░░░░
 MySQL    ███████████░░░░
+```
+
+**AI & RAG**
+```
+**AI & RAG**
+
+RAG       ██████████████░  LangChain
+Agents    █████████████░░  Google ADK
+Vectors   ████████████░░░  Chroma · pgvector
+LLMs      ████████████░░░  Gemini · OpenAI
 ```
 
 **Toolchain**
 ```
-Git · GitHub · Postman · REST
+Git · GitHub · Docker · Postman · REST
 ```
 
 </td>
@@ -71,10 +84,10 @@ Git · GitHub · Postman · REST
 <!--START_SECTION:activity-->
 
 ```
-[active]  REST API  →  Schema design, auth middleware, validation layers
-[active]  Auth      →  JWT, refresh tokens, RBAC implementation
-[active]  DB        →  Query optimization, modeling best practices
-[active]  Craft     →  Clean code, SOLID principles, production patterns
+[active]  Backend   →  FastAPI, REST APIs, scalable service architecture
+[active]  AI/RAG    →  Retrieval pipelines, LLM integration, AI agents
+[active]  Auth      →  JWT, RBAC, permissions, access-control systems
+[active]  Data      →  PostgreSQL, vector search, database optimization
 ```
 
 ---
@@ -89,11 +102,9 @@ Git · GitHub · Postman · REST
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit-14&layout=compact&hide_title=true&hide_border=true&bg_color=0d0d1a&text_color=c4b8e8&title_color=9d8ec7" height="130"/>
 </p>
 
----
-
 <p align="center">
   <sub>
-    <code>designed for reliability · built for scale · measured in uptime</code>
+    <code>building reliable backends · exploring intelligent systems · learning at scale</code>
   </sub>
 </p>
 
